@@ -1,16 +1,32 @@
 # EXTM3U
- 
-#EXTINF: -1 tvg-logo="https://ver.cuevana.pro/resize/200/storage/53212/2d7vFzh8aldqzwPCCTVNdNrEWlXlIGjrakG8Kb1q.jpg", GUERRA MUNDIAL Z
-https://www373.ff-01.com/token=ouxnvt_-O5WH61xsDsbOoA/1667875775/190.239.0.0/87/6/50/15152ec107fc1703bf6fcb52c901d506-1080p.mp4
-
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/lr4SNyL01WB1wT7qnLpRCt7yex1.jpg", LA VIEJA GUARDIA
-https://www1108.ff-03.com/token=o2nwLooXE19J5OpGDWe3KQ/1667876262/190.239.0.0/127/9/5e/a23adfa6e81f3f2c87faf690ef57a5e9-1080p.mp4
-
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/gJpbw3pVCAKksp1LgsTGW7c8SFV.jpg", PROYECTO GEMINIS
-https://www297.ff-01.com/token=JtS3YGl0xkaBwZdf5gFKZA/1667876578/190.239.0.0/99/5/8e/b1c93c103b9562054aeea063c047e8e5-1080p.mp4
-
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/2jVVDtDaeMxmcvrz2SNyhMcYtWc.jpg" group-title="Venom", Venom: Carnage Liberado
-https://s8.zplayer.live/hls/5fxcu4xmxsnufvsa6liu7bwyxcwlstmxuaj2giz3r32pmhjx7v2bsyu53r4a/index-v1-a1.m3u8
 
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/qsI7AEaq7qr5h3z5dnG3QIS13Yk.jpg", No miren arriba
 https://s14.zplayer.live/hls/5fxctkiixsnufvsa6lge7xmiw7kjpechvveyenefzefwa5qd274mz7yxizea/index-v1-a1.m3u8
+
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="HALO", 1 Contacto
+https://download1655.mediafire.com/ncuv3izi7fog/23c64a5m5zqcu5u/Halo+S01E01.mkv
+
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="HALO", 2 Unbound
+https://download1529.mediafire.com/ef16uwe5nrwg/wmry1jkic9z3osy/S01+E2+H.2.L.0.mkv
+
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="HALO", 3 Emergence
+https://download2389.mediafire.com/ivun7a9a3l9g/qe1mhv7c45lki7f/Halo+S01E3.mp4
+
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="HALO", 4 Homecoming
+https://download2393.mediafire.com/ybqiezqda8ig/345omoosq24zugz/Halo+1x04.mp4
+
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="HALO", 5 Reckoning
+https://download2283.mediafire.com/71vx81huistg/pge2ngkvx0vjklc/Halo+S01E5.mp4
+
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="HALO", 6 Solace
+https://download2392.mediafire.com/laidyhrf3zdg/gti0keoj5ftap7r/Halo+S01E6.mp4
+
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="HALO", 7 Inheritance
+https://download1478.mediafire.com/pvg4drajrwjg/a5a3uxfkwdlxemw/Halo+S01E7.mp4
+
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="HALO", 8 Allegiance
+https://download2393.mediafire.com/ih785qn87gng/59rjil24bb16pl4/Halo+S01E8.mp4
+
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="HALO", 9 Transcendence
+https://download2389.mediafire.com/wjpawrm1cfvg/4s7d68p69m173kg/Halo+S01E09.mkv
+
