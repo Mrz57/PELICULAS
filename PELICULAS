@@ -1,7 +1,7 @@
 # EXTM3U
 
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/qsI7AEaq7qr5h3z5dnG3QIS13Yk.jpg", No miren arriba
-https://s14.zplayer.live/hls/5fxctkiixsnufvsa6lge7xmiw7kjpechvveyenefzefwa5qd274mz7yxizea/index-v1-a1.m3u8
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/mnVZLdo9C4X80sJmgcGNpMNCbgk.jpg", MAD MAX
+https://delivery217.akamai-cdn-content.com/hls2/01/00950/6hfdppqpc16t_o/master.m3u8?t=jjAt3uDcftyLhByLNh59F6do1zXTElQDPtOkoB7bPXw&s=1668467518&e=10800&f=4750758&srv=sto028&client=201.230.169.67
 
 #EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="HALO", 1 Contacto
 https://download1655.mediafire.com/ncuv3izi7fog/23c64a5m5zqcu5u/Halo+S01E01.mkv
